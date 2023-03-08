@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Maria Martinez Guzman",
 	"description": "An app for topcoder learning.",
+	"keywords": [ "topcder", "web", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.18.2"
 	},
