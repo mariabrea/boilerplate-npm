@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Maria Martinez Guzman",
+	"description": "An app for topcoder learning.",
 	"dependencies": {
 		"express": "^4.18.2"
 	},
